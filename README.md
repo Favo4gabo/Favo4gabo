@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Gabriel Franco</h1>
-<h3 align="center">Un estudiante de Ingeniería en Sistemas, certificado como Desarrollador Full Stack actualmente trabajando en el desarrollo de una plataforma de e-commerce con un equipo multidisciplinar.</h3>
+<h3 align="center">Estudiante de Ingeniería en Sistemas, certificado como Desarrollador Full Stack actualmente trabajando en el desarrollo de una plataforma de e-commerce con un equipo multidisciplinar.</h3>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
